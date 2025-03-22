@@ -32,7 +32,7 @@ Authentication: Firebase Auth
 
 Clone the Repository
 
-git clone https://github.com/your-username/firebase-auth-app.git
+git clone https://github.com/vinay-singh-dev/firebase-auth-app.git
 
 Open in Android Studio
 
