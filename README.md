@@ -59,11 +59,6 @@ Initialize Firebase Auth in MainActivity.kt:
 private lateinit var auth: FirebaseAuth
 auth = FirebaseAuth.getInstance()
 
-📸 Screenshots
-
-
-
-
 🔥 Future Enhancements
 
 Google & Facebook Sign-In Integration
@@ -76,9 +71,6 @@ Profile Management
 
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
-📜 License
-
-This project is licensed under the MIT License.
 
 🚀 Start building secure authentication with Firebase today!
 
